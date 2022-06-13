@@ -12,4 +12,5 @@ except ZeroDivisionError:
     print('除数不能为0')
 print('程序结束')
 print('短视频功能')
+print('约饭')
  
