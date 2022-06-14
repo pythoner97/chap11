@@ -13,4 +13,5 @@ except ZeroDivisionError:
 print('程序结束')
 print('短视频功能')
 print('约饭(修复bug)')
- 
+print('商城100%')
+
